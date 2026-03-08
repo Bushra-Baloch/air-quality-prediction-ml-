@@ -1,11 +1,23 @@
-Dataset: Air Quality Dataset
+Dataset: Pakistan Air Quality Data
 
-This dataset will be used for predicting PM2.5 levels using machine learning.
+Country: Pakistan
 
-Variables expected:
+Cities:
+Lahore
+Karachi
+Islamabad
+Rawalpindi
+Faisalabad
+
+Variables:
+Date
+City
+AQI
 PM2.5
 PM10
 Temperature
 Humidity
 Wind Speed
-Date
+
+Purpose:
+This dataset will be used to train machine learning models to predict AQI levels in Pakistan.
