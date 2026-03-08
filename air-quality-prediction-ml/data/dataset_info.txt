@@ -1,0 +1,11 @@
+Dataset: Air Quality Dataset
+
+This dataset will be used for predicting PM2.5 levels using machine learning.
+
+Variables expected:
+PM2.5
+PM10
+Temperature
+Humidity
+Wind Speed
+Date
